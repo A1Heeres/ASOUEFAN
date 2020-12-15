@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+ <style>
+body {
+  background-color: black;
+  background-size: 100% auto;
+ 
+}
+</style> 
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: x-large;line-height: 0.01;">Fire-Fighters (Guardians)
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: small; line-height: 0.01;"> a sub-site by Aiden Heeres 
+<hr>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column{
+  float: left;
+  width: 33.33%;
+  padding: 6px;
+  height: auto; /* Should be removed. Only for demonstration */
+}
+.column2{
+  float: left;
+  width: 25%;
+  padding: 6px;
+  height: auto;
+  /* Should be removed. Only for demonstration */
+}
+.column3{
+  float: left;
+  width: 80%;
+  padding: 6px;
+  height: auto;
+  margin: auto;
+  overflow: auto;
+  transform: translate(10%);
+  /* Should be removed. Only for demonstration */
+}
+.column4{
+  float: left;
+  width: 40%;
+  padding: 6px;
+  height: auto;
+  transform: translate(20%);
+  
+  /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+
+<div class="row">
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: large;line-height: 0.01;"> The Bad Beginning
+<div class="column3" style="background-color:black;border: 5px solid #919191;font-family:'American Typewriter';">
+    <div align=center><img src="Sunny_tss.webp" style=max-width:60%;>
+    <p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: large;line-height: 1;"> Sunny Baudelaire
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: small;"> Klaus, the middle child, is the researcher. He has read more books than the rest of the children combined and has a photographic memory, so he never forgets anything he reads. He is socially awkward and believes no one can be trusted until they prove themselves worthy of his trust. 
+  </div>
+  </div>
+
+  </div>
+<div class="row">
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: large;line-height: 0.01;"> The Reptile Room
+<div class="column3" style="background-color:black;border: 5px solid #919191;font-family:'American Typewriter';">
+    <div align=center><img src="Sunny_tss.webp" style=max-width:60%;>
+    <p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: large;line-height: 1;"> Sunny Baudelaire
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: small;"> Klaus, the middle child, is the researcher. He has read more books than the rest of the children combined and has a photographic memory, so he never forgets anything he reads. He is socially awkward and believes no one can be trusted until they prove themselves worthy of his trust. 
+  </div>
+  </div>
+
+</div>
+
+
+<div class="row">
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: large;line-height: 0.01;"> The Wide Window
+<div class="column3" style="background-color:black;border: 5px solid #919191;font-family:'American Typewriter';">
+    <div align=center><img src="Sunny_tss.webp" style=max-width:60%;>
+    <p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: large;line-height: 1;"> Sunny Baudelaire
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: small;"> Klaus, the middle child, is the researcher. He has read more books than the rest of the children combined and has a photographic memory, so he never forgets anything he reads. He is socially awkward and believes no one can be trusted until they prove themselves worthy of his trust. 
+  </div>
+  </div>
+
+  </div>
+<div class="row">
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: large;line-height: 0.01;"> The Miserablle Mill
+<div class="column3" style="background-color:black;border: 5px solid #919191;font-family:'American Typewriter';">
+    <div align=center><img src="Sunny_tss.webp" style=max-width:60%;>
+    <p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: large;line-height: 1;"> Sunny Baudelaire
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: small;"> Klaus, the middle child, is the researcher. He has read more books than the rest of the children combined and has a photographic memory, so he never forgets anything he reads. He is socially awkward and believes no one can be trusted until they prove themselves worthy of his trust. 
+  </div>
+  </div>
+
+</div>
+<div class="row">
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: large;line-height: 0.01;"> The Austere Academy
+<div class="column3" style="background-color:black;border: 5px solid #919191;font-family:'American Typewriter';">
+    <div align=center><img src="Sunny_tss.webp" style=max-width:60%;>
+    <p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: large;line-height: 1;"> Sunny Baudelaire
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: small;"> Klaus, the middle child, is the researcher. He has read more books than the rest of the children combined and has a photographic memory, so he never forgets anything he reads. He is socially awkward and believes no one can be trusted until they prove themselves worthy of his trust. 
+  </div>
+  </div>
+
+</div>
+<div class="row">
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: large;line-height: 0.01;"> The Ersatz Elevator
+<div class="column4" style="background-color:black;border: 5px solid #919191;font-family:'American Typewriter';">
+    <div align=center><img src="Esmenetflixsquare.webp" style=max-width:60%;>
+    <p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: large;line-height: 1;"> Esmé Squalor
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: small;"> Klaus, the middle child, is the researcher. He has read more books than the rest of the children combined and has a photographic memory, so he never forgets anything he reads. He is socially awkward and believes no one can be trusted until they prove themselves worthy of his trust. 
+
+  </div>
+</div>
+<div class="column4" style="background-color:black;border: 5px solid #919191;font-family:'American Typewriter';">
+    <div align=center><img src="JeromeTV.webp" style=max-width:60%;>
+    <p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: large;line-height: 1;"> Jerome Squalor
+<p style="text-align: center; color: #919191; font-family:'American Typewriter'; font-size: small;"> Klaus, the middle child, is the researcher. He has read more books than the rest of the children combined and has a photographic memory, so he never forgets anything he reads. He is socially awkward and believes no one can be trusted until they prove themselves worthy of his trust. 
+</div>
+
+</div>
+</div>
+
+</body>
+</html>
+
+</style>
+</head>
+
+
+</body>
+</html>
+
